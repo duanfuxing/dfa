@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-$ composer require ggob/dfa
+$ composer require ggob/dfa 1.0.0
 ```
 ######Laravel config目录app.php文件providers数组放入
 ```
