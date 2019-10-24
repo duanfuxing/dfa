@@ -1,0 +1,17 @@
+{
+    "name": "ggob/dfa",
+    "description": "This is a DFA algorithm based on PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uncle",
+            "email": "1243702438@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ggob\\dfa\\": "src/"
+        }
+    }
+}
